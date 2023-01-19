@@ -1,0 +1,45 @@
+[class^='col-'] {
+    border: 1px solid black;
+    padding: 40px;
+}
+
+.border {
+    background-color: gray;
+}
+
+.light-blue {
+    background-color: aqua;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.missing {
+    border: 1px solid aqua;
+}
+
+.no-border {
+    border-left: none;
+    border-right: none;
+}
