@@ -18,3 +18,7 @@
     background-color: #00e165;
     border: 1px solid var(--blue);
 }
+
+.container.no-text [class^='col-'] {
+    padding: 20px;
+}
